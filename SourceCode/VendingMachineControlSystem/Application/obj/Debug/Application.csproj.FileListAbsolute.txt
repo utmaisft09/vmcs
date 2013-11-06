@@ -1,0 +1,17 @@
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\bin\Debug\Application.exe.config
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\bin\Debug\Application.exe
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\bin\Debug\Application.pdb
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\obj\Debug\App.g.cs
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\obj\Debug\Application_MarkupCompile.cache
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\obj\Debug\Application.g.resources
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\obj\Debug\Application.Properties.Resources.resources
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\obj\Debug\Application.csproj.GenerateResource.Cache
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\obj\Debug\Application.exe
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\obj\Debug\Application.pdb
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\obj\Debug\App.baml
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\obj\Debug\CustomerInterfacePanel.baml
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\obj\Debug\CustomerInterfacePanel.g.cs
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\obj\Debug\OverallSimulationControlPanel.baml
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\obj\Debug\OverallSimulationControlPanel.g.cs
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\obj\Debug\MaintainerInterfacePanel.baml
+C:\Users\Pouya\Desktop\Group Assignments\Vending Machine Control System\VendingMachineControlSystem\Application\obj\Debug\MaintainerInterfacePanel.g.cs

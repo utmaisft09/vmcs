@@ -1,0 +1,43 @@
+﻿<Window x:Class="Application.MaintainerInterfacePanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MaintainerInterfacePanel"
+        Height="760" Width="570"
+        MaxHeight="760" MaxWidth="570" MinHeight="760" MinWidth="570"
+        WindowStartupLocation="CenterScreen" Style="{StaticResource WindowsStyle}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="VITMO SOFT DRINKS DISPENSER" Grid.Column="0" Grid.ColumnSpan="6" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Label Content="Maintaner Interface Panel" Grid.Column="0" Grid.ColumnSpan="6" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Style="{StaticResource ContentLableStyle}"/>
+
+        <Label Content="TYPE PASSWROD HERE" Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Style="{StaticResource ContentLableStyle}"/>
+        <PasswordBox Grid.Column="3" Grid.ColumnSpan="1" Grid.Row="1" Height="25" Width="90" />
+
+        <TextBlock Text="PASSWORD VALID" Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Center" Style="{StaticResource AcceptionLableStyle}"/>
+        <TextBlock Text="PASSWORD INVALID" Grid.Column="3" Grid.ColumnSpan="2" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Style="{StaticResource ExceptionLableStyle}"/>
+
+    </Grid>
+</Window>
